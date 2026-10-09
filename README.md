@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**HafizAbdullahUmar/HafizAbdullahUmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer with approximately 4 years of professional experience building production web applications, backend systems, and real-time platforms.
 
-Here are some ideas to get you started:
+### What I work with
+- **Frontend:** React, Next.js, TypeScript
+- **Backend:** Node.js, Express, NestJS
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **AI Integrations:** OpenAI, Gemini, Whisper, multi-provider LLM workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional experience
+- Led a 10-person engineering team developing a fantasy football platform.
+- Built transaction-processing backend services for an environmental trading platform.
+- Developed a WhatsApp-integrated inventory and sales system with AI-powered queries and Urdu voice commands.
+
+Most of my professional work has been on proprietary commercial applications, so not all of my engineering experience is represented in public repositories.
+
+### Connect
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [Upwork](https://www.upwork.com/freelancers/~01c3839f773874909b?viewMode=1)
