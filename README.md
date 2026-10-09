@@ -16,5 +16,4 @@ Full-Stack Engineer with approximately 4 years of professional experience buildi
 Most of my professional work has been on proprietary commercial applications, so not all of my engineering experience is represented in public repositories.
 
 ### Connect
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [Upwork](https://www.upwork.com/freelancers/~01c3839f773874909b?viewMode=1)
+- [LinkedIn](www.linkedin.com/in/abdullah-umar-0b6709244)
