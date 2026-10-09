@@ -9,7 +9,7 @@ Full-Stack Engineer with approximately 4 years of professional experience buildi
 - **AI Integrations:** OpenAI, Gemini, Whisper, multi-provider LLM workflows
 
 ### Professional experience
-- Led a 10-person engineering team developing a fantasy football platform.
+- Led a four-person development team developing a fantasy football platform.
 - Built transaction-processing backend services for an environmental trading platform.
 - Developed a WhatsApp-integrated inventory and sales system with AI-powered queries and Urdu voice commands.
 
